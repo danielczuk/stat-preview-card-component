@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/danielczuk/FrontendMentorFirstProject)
+- Solution URL: [Add solution URL here](https://danielczuk.github.io/stat-preview-card-component/)
 
 ## My process
 
